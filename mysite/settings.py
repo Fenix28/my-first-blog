@@ -25,7 +25,7 @@ SECRET_KEY = '7qs$4o&n-lc@jp*=ei5=v+h(_bcq1!z6ivjhn07x4xs9#1$o-h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<chord28>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fenix28.pythonanywhere.com']
 
 
 # Application definition
